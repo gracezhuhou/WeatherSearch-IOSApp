@@ -1,2 +1,3 @@
 # WeatherSearch-IOSApp
-CS Homework
+CS Homework  
+An IOS App for weather search
